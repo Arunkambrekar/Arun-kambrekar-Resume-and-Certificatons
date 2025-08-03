@@ -4,7 +4,7 @@
 Welcome! This repository contains my latest resume and all relevant certifications related to my QA career path in both Manual and Automation Testing.
 
 ## 📄 Resume
-- [Download Resume (PDF)](./Arun_Kambrekar_QA_Resume.pdf)
+- [Download Resume (PDF)]arunkambrekarqamanua_1753878563.pdf
 
 ## 📜 Certifications
 - ✅ FreeCodeCamp – Responsive Web Design Certificate
